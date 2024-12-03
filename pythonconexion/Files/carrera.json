@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "Desarrollo de software",
+        "clave": "1",
+        "grupos": [
+            {
+                "seccion": "A",
+                "grado": "7",
+                "alumnos": [
+                    {
+                        "isObject": true,
+                        "nombres": "Ana María",
+                        "apellidoPaterno": "González",
+                        "apellidoMaterno": "López",
+                        "curp": "GOLA980315",
+                        "matricula": "19170234"
+                    },
+                    {
+                        "isObject": true,
+                        "nombres": "Juan Carlos",
+                        "apellidoPaterno": "Martínez",
+                        "apellidoMaterno": "Ramírez",
+                        "curp": "MARJ000528",
+                        "matricula": "20170456"
+                    },
+                    {
+                        "isObject": true,
+                        "nombres": "María Fernanda",
+                        "apellidoPaterno": "Sánchez",
+                        "apellidoMaterno": "Torres",
+                        "curp": "SATM010712",
+                        "matricula": "21170789"
+                    }
+                ]
+            }
+        ]
+    }
+]

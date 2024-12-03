@@ -1,0 +1,46 @@
+[
+    {
+        "seccion": "B",
+        "grado": "6",
+        "alumnos": [
+            {
+                "isObject": true,
+                "nombres": "Carlos Alberto",
+                "apellidoPaterno": "García",
+                "apellidoMaterno": "Hernández",
+                "curp": "GACH010",
+                "matricula": "22170132"
+            },
+            {
+                "isObject": true,
+                "nombres": "Alejandro",
+                "apellidoPaterno": "Díaz",
+                "apellidoMaterno": "González",
+                "curp": "DIAA010",
+                "matricula": "32442129"
+            }
+        ]
+    },
+    {
+        "seccion": "A",
+        "grado": "7",
+        "alumnos": [
+            {
+                "isObject": true,
+                "nombres": "Carlos Alberto",
+                "apellidoPaterno": "García",
+                "apellidoMaterno": "Hernández",
+                "curp": "GACH010",
+                "matricula": "22170132"
+            },
+            {
+                "isObject": true,
+                "nombres": "Alejandro",
+                "apellidoPaterno": "Díaz",
+                "apellidoMaterno": "González",
+                "curp": "DIAA010",
+                "matricula": "32442129"
+            }
+        ]
+    }
+]

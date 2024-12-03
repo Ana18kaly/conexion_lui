@@ -1,0 +1,18 @@
+[
+    {
+        "isObject": true,
+        "nombres": "Uriel Fernando",
+        "apellidoPaterno": "Montier",
+        "apellidoMaterno": "Olivar",
+        "curp": "URIFE14",
+        "matricula": "32442129"
+    },
+    {
+        "isObject": true,
+        "nombres": "Pepe",
+        "apellidoPaterno": "alejandro",
+        "apellidoMaterno": "perez",
+        "curp": "saenszzzz",
+        "matricula": "111111"
+    }
+]
